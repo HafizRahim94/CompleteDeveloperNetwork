@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\bin\Debug\net8.0\etiqatest.Application.deps.json
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\bin\Debug\net8.0\etiqatest.Application.dll
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\bin\Debug\net8.0\etiqatest.Application.pdb
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\obj\Debug\net8.0\etiqatest.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\obj\Debug\net8.0\etiqatest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\obj\Debug\net8.0\etiqatest.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\obj\Debug\net8.0\etiqatest.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\obj\Debug\net8.0\etiqatest.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\obj\Debug\net8.0\etiqatest.Application.dll
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\obj\Debug\net8.0\refint\etiqatest.Application.dll
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\obj\Debug\net8.0\etiqatest.Application.pdb
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\obj\Debug\net8.0\ref\etiqatest.Application.dll
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\bin\Debug\net8.0\etiqatest.Domain.dll
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\bin\Debug\net8.0\etiqatest.Domain.pdb
+C:\Users\user\source\repos\etiqatest\etiqatest.Application\obj\Debug\net8.0\etiqates.FEF4890F.Up2Date

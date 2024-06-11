@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\bin\Debug\net8.0\etiqatest.Domain.deps.json
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\bin\Debug\net8.0\etiqatest.Domain.dll
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\bin\Debug\net8.0\etiqatest.Domain.pdb
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\obj\Debug\net8.0\etiqatest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\obj\Debug\net8.0\etiqatest.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\obj\Debug\net8.0\etiqatest.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\obj\Debug\net8.0\etiqatest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\obj\Debug\net8.0\etiqatest.Domain.dll
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\obj\Debug\net8.0\refint\etiqatest.Domain.dll
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\obj\Debug\net8.0\etiqatest.Domain.pdb
+C:\Users\user\source\repos\etiqatest\etiqatest.Domain\obj\Debug\net8.0\ref\etiqatest.Domain.dll

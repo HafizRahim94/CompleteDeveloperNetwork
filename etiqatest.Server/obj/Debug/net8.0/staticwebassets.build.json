@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "srzxuMrOlveYvARODnESebfCNsKV7zdQoSE2ZFIGpyY=",
+  "Source": "etiqatest.API",
+  "BasePath": "_content/etiqatest.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

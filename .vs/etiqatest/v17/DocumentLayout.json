@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\etiqatest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8451B12A-8968-4B0A-A2DE-C9FC4C500C7E}|etiqatest.Infrastructure\\etiqatest.Infrastructure.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.infrastructure\\persistence\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8451B12A-8968-4B0A-A2DE-C9FC4C500C7E}|etiqatest.Infrastructure\\etiqatest.Infrastructure.csproj|solutionrelative:etiqatest.infrastructure\\persistence\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8451B12A-8968-4B0A-A2DE-C9FC4C500C7E}|etiqatest.Infrastructure\\etiqatest.Infrastructure.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.infrastructure\\common\\persistence\\completedevelopernetworkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8451B12A-8968-4B0A-A2DE-C9FC4C500C7E}|etiqatest.Infrastructure\\etiqatest.Infrastructure.csproj|solutionrelative:etiqatest.infrastructure\\common\\persistence\\completedevelopernetworkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8451B12A-8968-4B0A-A2DE-C9FC4C500C7E}|etiqatest.Infrastructure\\etiqatest.Infrastructure.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8451B12A-8968-4B0A-A2DE-C9FC4C500C7E}|etiqatest.Infrastructure\\etiqatest.Infrastructure.csproj|solutionrelative:etiqatest.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8451B12A-8968-4B0A-A2DE-C9FC4C500C7E}|etiqatest.Infrastructure\\etiqatest.Infrastructure.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8451B12A-8968-4B0A-A2DE-C9FC4C500C7E}|etiqatest.Infrastructure\\etiqatest.Infrastructure.csproj|solutionrelative:etiqatest.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414202FB-5D13-4336-A453-4167FF1833A6}|etiqatest.Server\\etiqatest.API.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414202FB-5D13-4336-A453-4167FF1833A6}|etiqatest.Server\\etiqatest.API.csproj|solutionrelative:etiqatest.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8451B12A-8968-4B0A-A2DE-C9FC4C500C7E}|etiqatest.Infrastructure\\etiqatest.Infrastructure.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8451B12A-8968-4B0A-A2DE-C9FC4C500C7E}|etiqatest.Infrastructure\\etiqatest.Infrastructure.csproj|solutionrelative:etiqatest.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684C399-4E0D-464D-8D72-491C56D2A67A}|etiqatest.Application\\etiqatest.Application.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.application\\common\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1684C399-4E0D-464D-8D72-491C56D2A67A}|etiqatest.Application\\etiqatest.Application.csproj|solutionrelative:etiqatest.application\\common\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684C399-4E0D-464D-8D72-491C56D2A67A}|etiqatest.Application\\etiqatest.Application.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.application\\users\\skillset\\addskillset\\addskillsetcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1684C399-4E0D-464D-8D72-491C56D2A67A}|etiqatest.Application\\etiqatest.Application.csproj|solutionrelative:etiqatest.application\\users\\skillset\\addskillset\\addskillsetcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414202FB-5D13-4336-A453-4167FF1833A6}|etiqatest.Server\\etiqatest.API.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{414202FB-5D13-4336-A453-4167FF1833A6}|etiqatest.Server\\etiqatest.API.csproj|solutionrelative:etiqatest.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414202FB-5D13-4336-A453-4167FF1833A6}|etiqatest.Server\\etiqatest.API.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414202FB-5D13-4336-A453-4167FF1833A6}|etiqatest.Server\\etiqatest.API.csproj|solutionrelative:etiqatest.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684C399-4E0D-464D-8D72-491C56D2A67A}|etiqatest.Application\\etiqatest.Application.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.application\\users\\getskillsets\\getskillsetscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1684C399-4E0D-464D-8D72-491C56D2A67A}|etiqatest.Application\\etiqatest.Application.csproj|solutionrelative:etiqatest.application\\users\\getskillsets\\getskillsetscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684C399-4E0D-464D-8D72-491C56D2A67A}|etiqatest.Application\\etiqatest.Application.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.application\\users\\getskillsets\\getskillsetscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1684C399-4E0D-464D-8D72-491C56D2A67A}|etiqatest.Application\\etiqatest.Application.csproj|solutionrelative:etiqatest.application\\users\\getskillsets\\getskillsetscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684C399-4E0D-464D-8D72-491C56D2A67A}|etiqatest.Application\\etiqatest.Application.csproj|c:\\users\\user\\source\\repos\\etiqatest\\etiqatest.application\\auth\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1684C399-4E0D-464D-8D72-491C56D2A67A}|etiqatest.Application\\etiqatest.Application.csproj|solutionrelative:etiqatest.application\\auth\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Application\\Common\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "etiqatest.Application\\Common\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Application\\Common\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "etiqatest.Application\\Common\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:40:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "etiqatest.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "etiqatest.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:37:50.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Server\\Program.cs",
+              "RelativeDocumentMoniker": "etiqatest.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Server\\Program.cs",
+              "RelativeToolTip": "etiqatest.Server\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAlwEsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:09:28.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetSkillsetsCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Application\\Users\\GetSkillsets\\GetSkillsetsCommandHandler.cs",
+              "RelativeDocumentMoniker": "etiqatest.Application\\Users\\GetSkillsets\\GetSkillsetsCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Application\\Users\\GetSkillsets\\GetSkillsetsCommandHandler.cs",
+              "RelativeToolTip": "etiqatest.Application\\Users\\GetSkillsets\\GetSkillsetsCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:03:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Application\\Auth\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "etiqatest.Application\\Auth\\Login\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Application\\Auth\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "etiqatest.Application\\Auth\\Login\\LoginCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:02:33.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetSkillsetsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Application\\Users\\GetSkillsets\\GetSkillsetsCommand.cs",
+              "RelativeDocumentMoniker": "etiqatest.Application\\Users\\GetSkillsets\\GetSkillsetsCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Application\\Users\\GetSkillsets\\GetSkillsetsCommand.cs",
+              "RelativeToolTip": "etiqatest.Application\\Users\\GetSkillsets\\GetSkillsetsCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:01:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompleteDeveloperNetworkDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Infrastructure\\Common\\Persistence\\CompleteDeveloperNetworkDbContext.cs",
+              "RelativeDocumentMoniker": "etiqatest.Infrastructure\\Common\\Persistence\\CompleteDeveloperNetworkDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Infrastructure\\Common\\Persistence\\CompleteDeveloperNetworkDbContext.cs",
+              "RelativeToolTip": "etiqatest.Infrastructure\\Common\\Persistence\\CompleteDeveloperNetworkDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:59:31.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddSkillsetCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Application\\Users\\Skillset\\AddSkillset\\AddSkillsetCommandHandler.cs",
+              "RelativeDocumentMoniker": "etiqatest.Application\\Users\\Skillset\\AddSkillset\\AddSkillsetCommandHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Application\\Users\\Skillset\\AddSkillset\\AddSkillsetCommandHandler.cs",
+              "RelativeToolTip": "etiqatest.Application\\Users\\Skillset\\AddSkillset\\AddSkillsetCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:59:31.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "etiqatest.Server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "etiqatest.Server\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:01:20.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "etiqatest.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "etiqatest.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:59:08.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "etiqatest.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Server\\appsettings.Development.json",
+              "RelativeToolTip": "etiqatest.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T16:58:52.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Infrastructure\\Persistence\\UserRepository.cs",
+              "RelativeDocumentMoniker": "etiqatest.Infrastructure\\Persistence\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Infrastructure\\Persistence\\UserRepository.cs",
+              "RelativeToolTip": "etiqatest.Infrastructure\\Persistence\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:03:32.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "etiqatest.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\etiqatest\\etiqatest.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "etiqatest.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:14:10.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
